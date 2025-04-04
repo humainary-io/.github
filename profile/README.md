@@ -1,5 +1,41 @@
-## Humanistic Innovation in Systems Engineering
+# Welcome to Humainary
 
-The Humainary Initiative is dedicated to revolutionizing the engineering of complex systems by championing three core principles: sensibility, simplicity, and sophistication. Our mission is to empower engineers and organizations to build, operate, and evolve systems that are not only highly observable and adaptable but also intuitive and resilient in the face of increasing complexity.
+**Revolutionizing Observability through Open Interfaces and Next-Generation Signal Intelligence**
 
-At the heart of Humainary lies a foundational framework that redefines how we understand and interact with complex systems. This framework directly enhances software service observability, adaptability, controllability, and operability, enabling teams to move from reactive firefighting to proactive system mastery. By focusing on universal patterns—such as sources, subjects, signs, and signals—we provide a unified language for system understanding that transcends traditional silos like traces, logs, and metrics.
+Humainary hosts open-source interfaces designed to transform how we observe, understand, and interact with complex digital systems. Our goal is nothing short of revolutionizing observability by shifting from traditional metrics and logging toward meaningful signal interpretation and systemic understanding.
+
+## Our Projects
+
+### [Substrates](https://github.com/humainary/substrates)
+A foundational API for seamless signal flow management across distributed systems. Substrates enable structured, dynamic instrumentation for advanced observability, simulation, and adaptive control.
+
+- **Conduits & Circuits**: Intuitive APIs to manage channels, data flow, and cross-process communications.
+- **Holonic Design**: Modular and hierarchical structure for complex system management.
+
+### [Serventis](https://github.com/humainary/serventis)
+An innovative observability and monitoring API based on semiotics and signaling theory. Serventis introduces structured interfaces for sensing system conditions and assessing operational health dynamically.
+
+- **Monitors API**: Standardized interface for condition assessment and statistical confidence.
+- **Signal-Driven**: Shift from raw metrics to contextual signal interpretation.
+
+### ✨ Signetics *(coming soon!)*
+A groundbreaking framework for creating, transforming, and orchestrating domain-specific signs and signals. Signetics expands beyond observability, enabling deep semantic interconnection across systems and contexts.
+
+- **Domain-Specific Semantics**: Define rich schemas tailored to specific ecosystems.
+- **Inter-contextual Sign Management**: Dynamic transformation and interpretation of signs across domains.
+
+## Why Sponsor Us?
+
+Your sponsorship enables Humainary to:
+
+- Continue groundbreaking research and development.
+- Expand community engagement through documentation, tutorials, and accessible resources.
+- Accelerate the creation of Signetics and further revolutionary tools.
+- Keep our interfaces open, accessible, and aligned with the latest developments in systems thinking and semiotics.
+
+By sponsoring Humainary, you're directly contributing to a paradigm shift in observability, steering the community toward meaningful insights and intelligent control systems.
+
+[💖 **Sponsor Us**](https://github.com/sponsors/humainary) and become part of shaping the future of observability!
+
+© 2025 Humainary - Revolutionizing Observability
+
