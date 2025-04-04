@@ -16,7 +16,7 @@ A foundational API for seamless signal flow management across distributed system
 An innovative observability and monitoring API based on semiotics and signaling theory. Serventis introduces structured interfaces for sensing system conditions and assessing operational health dynamically.
 
 - **Monitors API**: Standardized interface for condition assessment and statistical confidence.
-- **Signal-Driven**: Shift from raw metrics to contextual signal interpretation.
+- **Services API**: Shift from raw metrics to contextual signal interpretation.
 
 ### ✨ Signetics *(coming soon!)*
 A groundbreaking framework for creating, transforming, and orchestrating domain-specific signs and signals. Signetics expands beyond observability, enabling deep semantic interconnection across systems and contexts.
