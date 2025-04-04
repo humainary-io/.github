@@ -6,13 +6,13 @@ Humainary hosts open-source interfaces designed to transform how we observe, und
 
 ## Our Projects
 
-### [Substrates](https://github.com/humainary/substrates)
+### [Substrates](https://github.com/humainary-io/substrates-api-java)
 A foundational API for seamless signal flow management across distributed systems. Substrates enable structured, dynamic instrumentation for advanced observability, simulation, and adaptive control.
 
 - **Conduits & Circuits**: Intuitive APIs to manage channels, data flow, and cross-process communications.
 - **Holonic Design**: Modular and hierarchical structure for complex system management.
 
-### [Serventis](https://github.com/humainary/serventis)
+### [Serventis](https://github.com/humainary-io/serventis-api-java)
 An innovative observability and monitoring API based on semiotics and signaling theory. Serventis introduces structured interfaces for sensing system conditions and assessing operational health dynamically.
 
 - **Monitors API**: Standardized interface for condition assessment and statistical confidence.
